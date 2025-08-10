@@ -23,7 +23,7 @@ I am considering a complete rewrite in the future using a more robust and perfor
 - Flask
 
 ### Installation & Run
-```bash
+```
 # Clone the repository
 git clone https://github.com/baymanx/GraphNotebook.git
 cd GraphNotebook
@@ -33,7 +33,7 @@ pip install flask
 
 # Run the application
 python graph_note.py
-
+```
 ## Screenshots
 - Main interface
 
