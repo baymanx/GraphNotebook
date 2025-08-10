@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Status](https://img.shields.io/badge/status-experimental-orange.svg)]()
-[![Python](https://img.shields.io/badge/python-3.8%2B-blue)]()
+[![Python](https://img.shields.io/badge/python-3.x-blue)]()
 
 ## Overview
 While taking notes, I realized that much of the information I deal with is not best represented as a linear mind map, but rather as an interconnected knowledge graph.  
@@ -14,7 +14,7 @@ This is currently in a very early, conceptual **experimental stage**.
 Many features are placeholders, but the current setup works well enough for my personal use.
 
 ## Future Plans
-I am considering a complete rewrite in the future using a more robust and performance-friendly approach.
+I am considering a complete rewrite in the future using a more robust and performance-friendly approach, and adding AI-powered integration to transform any files into unified graph-based notes.
 
 ## Getting Started
 
