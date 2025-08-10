@@ -14,7 +14,7 @@ This is currently in a very early, conceptual **experimental stage**.
 Many features are placeholders, but the current setup works well enough for my personal use.
 
 ## Future Plans
-I am considering a complete rewrite in the future using a more robust and performance-friendly approach, and adding AI-powered integration to transform any files into unified graph-based notes.
+I am considering a complete rewrite in the future using a more robust and performance-friendly approach that organizes nodes more logically by adding structures like trees, timelines, and subnodes, and adding AI-powered integration to transform any files into unified graph-based notes.
 
 ## Getting Started
 
