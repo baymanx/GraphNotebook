@@ -7,7 +7,7 @@
 
 ## Screenshots
 - Main interface
-<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/aa15e887-2da1-4a9a-adcf-e1db6bd07bc5" />
+<img width="479" height="253" alt="image" src="https://github.com/user-attachments/assets/aa15e887-2da1-4a9a-adcf-e1db6bd07bc5" />
 
 
 ## Overview
