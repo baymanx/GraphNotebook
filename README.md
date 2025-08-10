@@ -36,10 +36,10 @@ python graph_note.py
 ```
 
 ## Usage
-Double-click blank space to create a new node
-Double-click a node to rename it
-Right-click two nodes to connect them
-Right-click a connection to delete it
+- Double-click blank space to create a new node  
+- Double-click a node to rename it  
+- Right-click two nodes to connect them  
+- Right-click a connection to delete it
 
 ## Screenshots
 - Main interface
