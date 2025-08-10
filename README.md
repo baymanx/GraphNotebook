@@ -37,7 +37,8 @@ python graph_note.py
 
 ## Usage
 - Double-click blank space to create a new node  
-- Double-click a node to rename it  
+- Double-click a node to rename it
+- Left-click a node to select and drag it
 - Right-click two nodes to connect them  
 - Right-click a connection to delete it
 
